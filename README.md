@@ -1,1 +1,1 @@
-# AfsanaNadirova
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000001&background=008EFF00&width=435&lines=Hi+%2C+I'm+Afsana+Nadirova;Front+End+Developer)](https://git.io/typing-svg)
