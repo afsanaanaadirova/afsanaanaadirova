@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afsana Nadirova</h1>
+<h1>Hi 👋, I'm Afsana Nadirova</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000001&background=008EFF00&width=435&lines=React+Developer;Front+End+Developer)](https://git.io/typing-svg)
 
